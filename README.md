@@ -13,6 +13,7 @@ Next.js (App Router) site for Mutikanga Mark (MMR Consultancy). Includes a multi
 - Shadcn UI components, Radix primitives
 - Framer Motion for animations
 - Resend for transactional email
+- Vercel Analytics for site analytics
 
 ## Getting Started
 Install dependencies and run dev server:
